@@ -17,4 +17,4 @@
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/so_long.git
+   git@github.com:mhmdjnde/so_long.git
