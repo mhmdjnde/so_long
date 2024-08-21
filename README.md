@@ -2,7 +2,7 @@
 
 ## Description
 **so_long** is a simple 2D game written in C using the MiniLibX (MLX) library. The objective of the game is to navigate a character through a map to collect items and reach the exit. This project is part of the 42 curriculum and focuses on applying knowledge of graphics programming, event handling, and memory management in a practical setting.
-
+![Alt text](game.png)
 ## Features
 - **2D Map**: The game is rendered on a 2D grid map where each tile represents different elements (player, collectibles, walls, exits).
 - **Player Movement**: The player can be controlled using keyboard inputs to move up, down, left, or right.
