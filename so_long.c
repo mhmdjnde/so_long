@@ -26,6 +26,7 @@ void	free_if_invalid(char **strs)
 			free(strs[i]);
 			i++;
 		}
+		exit(0);
 	}
 }
 
